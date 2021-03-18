@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APP_NAME="opi-app"
-APP_VERSION="0.0.1"
+APP_VERSION="0.1.0"
 TMP_DIR="./tmp"
 DOCKER_IMAGE="ivorobioff/$APP_NAME:$APP_VERSION"
 

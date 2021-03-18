@@ -1,6 +1,6 @@
 #!/bin/bash
 
-APP_VERSION="0.0.1"
+APP_VERSION="0.1.0"
 WEB_VERSION="0.0.3"
 
 mkdir -p ~/.opi/db
